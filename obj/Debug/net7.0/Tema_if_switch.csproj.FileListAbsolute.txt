@@ -1,0 +1,15 @@
+C:\WantSome\Homerwork\Tema_if_switch\bin\Debug\net7.0\Tema_if_switch.exe
+C:\WantSome\Homerwork\Tema_if_switch\bin\Debug\net7.0\Tema_if_switch.deps.json
+C:\WantSome\Homerwork\Tema_if_switch\bin\Debug\net7.0\Tema_if_switch.runtimeconfig.json
+C:\WantSome\Homerwork\Tema_if_switch\bin\Debug\net7.0\Tema_if_switch.dll
+C:\WantSome\Homerwork\Tema_if_switch\bin\Debug\net7.0\Tema_if_switch.pdb
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\Tema_if_switch.csproj.AssemblyReference.cache
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\Tema_if_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\Tema_if_switch.AssemblyInfoInputs.cache
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\Tema_if_switch.AssemblyInfo.cs
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\Tema_if_switch.csproj.CoreCompileInputs.cache
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\Tema_if_switch.dll
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\refint\Tema_if_switch.dll
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\Tema_if_switch.pdb
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\Tema_if_switch.genruntimeconfig.cache
+C:\WantSome\Homerwork\Tema_if_switch\obj\Debug\net7.0\ref\Tema_if_switch.dll
